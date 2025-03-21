@@ -1,3 +1,15 @@
-body { background: #a82e7a; margin: 0; }
-h1 { color: #63addf; text-align: center; }
-p { font-size: 16px; color: #e76161; }
+/* styles.css */
+body {
+    background: #a82e7a;
+    margin: 0;
+}
+
+h1 {
+    color: #63addf;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    color: #e76161;
+}
